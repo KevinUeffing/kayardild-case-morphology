@@ -1,0 +1,71 @@
+input	expected_output	status	source
+yakuri+NOM	yakuriya	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+LOC	yakuriya	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+ABL	yakurina	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+PROP	yakuriwuru	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+OBL	yakurinja	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+ALL	yakurir	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+GEN	yakurikarra	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+ASSOC	yakurinurru	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+PRIV	yakuriwarri	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+CONS	yakuringarrba	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+INSTR	yakuringuni	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+UTIL	yakurimarra	attested	Evans 1995, Fig. 4-2, p. 125
+yakuri+GEN+LOC	yakurikarranji	analogous	pattern per Evans 1995, p. 152 (nal-karran-ji)
+yakuri+LOC+MOBL	yakurikurrk	analogous	pattern per Evans 1995, pp. 131, 139
+yakuri+ORIG+NOM	yakuriwanda	analogous	pattern per Evans 1995, pp. 136-137
+yakuri+ORIG+LOC	yakuriwanji	analogous	pattern per Evans 1995, p. 157 (maramara-wan-ji)
+yakuri+LOT+NOM	yakuriwalada	analogous	pattern per Evans 1995, pp. 184-185
+maku+NOM	makuwa	attested	Evans 1995, Fig. 4-2, p. 125
+maku+LOC	makuya	attested	Evans 1995, Fig. 4-2, p. 125
+maku+ABL	makuna	attested	Evans 1995, Fig. 4-2, p. 125
+maku+PROP	makuuru	attested	Evans 1995, Fig. 4-2, p. 125
+maku+OBL	makuntha	attested	Evans 1995, Fig. 4-2, p. 125
+maku+ALL	makur	attested	Evans 1995, Fig. 4-2, p. 125
+maku+GEN	makukarra	attested	Evans 1995, Fig. 4-2, p. 125
+maku+ASSOC	makunurru	attested	Evans 1995, Fig. 4-2, p. 125
+maku+PRIV	makuwarri	attested	Evans 1995, Fig. 4-2, p. 125
+maku+CONS	makungarrba	attested	Evans 1995, Fig. 4-2, p. 125
+maku+INSTR	makunguni	attested	Evans 1995, Fig. 4-2, p. 125
+maku+UTIL	makumarra	attested	Evans 1995, Fig. 4-2, p. 125
+maku+GEN+LOC	makukarranji	analogous	pattern per Evans 1995, p. 152
+maku+LOC+MOBL	makukurrk	analogous	pattern per Evans 1995, pp. 131, 139
+maku+ORIG+NOM	makuwanda	analogous	pattern per Evans 1995, pp. 136-137
+maku+ORIG+LOC	makuwanji	analogous	pattern per Evans 1995, p. 157
+maku+LOT+NOM	makuwalada	analogous	pattern per Evans 1995, pp. 184-185
+mala+NOM	malaa	attested	Evans 1995, Fig. 4-2, p. 125
+mala+LOC	malaya	attested	Evans 1995, Fig. 4-2, p. 125
+mala+ABL	malana	attested	Evans 1995, Fig. 4-2, p. 125
+mala+PROP	malawuru	attested	Evans 1995, Fig. 4-2, p. 125
+mala+OBL	malantha	attested	Evans 1995, Fig. 4-2, p. 125
+mala+ALL	malar	attested	Evans 1995, Fig. 4-2, p. 125
+mala+GEN	malakarra	attested	Evans 1995, Fig. 4-2, p. 125
+mala+ASSOC	malanurru	attested	Evans 1995, Fig. 4-2, p. 125
+mala+PRIV	malawarri	attested	Evans 1995, Fig. 4-2, p. 125
+mala+CONS	malangarrba	attested	Evans 1995, Fig. 4-2, p. 125
+mala+INSTR	malanguni	attested	Evans 1995, Fig. 4-2, p. 125
+mala+UTIL	malamarra	attested	Evans 1995, Fig. 4-2, p. 125
+mala+GEN+LOC	malakarranji	analogous	pattern per Evans 1995, p. 152
+mala+LOC+MOBL	malakurrk	analogous	pattern per Evans 1995, pp. 131, 139
+mala+ORIG+NOM	malawanda	analogous	pattern per Evans 1995, pp. 136-137
+mala+ORIG+LOC	malawanji	analogous	pattern per Evans 1995, p. 157
+mala+LOT+NOM	malawalada	analogous	pattern per Evans 1995, pp. 184-185
+nal+NOM	nalda	attested	Evans 1995, Fig. 4-2, p. 125
+nal+LOC	naliya	attested	Evans 1995, Fig. 4-2, p. 125
+nal+ABL	nalina	attested	Evans 1995, Fig. 4-2, p. 125
+nal+PROP	naluru	attested	Evans 1995, Fig. 4-2, p. 125
+nal+OBL	nalinja	attested	Evans 1995, Fig. 4-2, p. 125
+nal+ALL	nalir	attested	Evans 1995, Fig. 4-2, p. 125
+nal+GEN	nalkarra	attested	Evans 1995, Fig. 4-2, p. 125
+nal+ASSOC	nalnurru	attested	Evans 1995, Fig. 4-2, p. 125
+nal+PRIV	nalwarri	attested	Evans 1995, Fig. 4-2, p. 125
+nal+CONS	nalngarrba	attested	Evans 1995, Fig. 4-2, p. 125
+nal+INSTR	nalnguni	attested	Evans 1995, Fig. 4-2, p. 125
+nat+UTIL	natmarra	attested	Evans 1995, Fig. 4-2, p. 125 (lexicalized exception, see Decision Log #6)
+nal+GEN+LOC	nalkarranji	attested	Evans 1995, p. 152, example 4-68
+nal+LOC+MOBL	nalkurrk	analogous	pattern per Evans 1995, pp. 131, 139 (cf. wuruman-kurrk)
+nal+ORIG+NOM	nalwanda	analogous	pattern per Evans 1995, pp. 136-137
+nal+ORIG+LOC	nalwanji	analogous	pattern per Evans 1995, p. 157
+nal+LOT+NOM	nalwalada	analogous	pattern per Evans 1995, pp. 184-185
+wangalk+INSTR	wangalnguni	attested	Evans 1995, p. 76, example 2-18
+wangalk+PRIV	wangalwarri	attested	Evans 1995, p. 76, example 2-18

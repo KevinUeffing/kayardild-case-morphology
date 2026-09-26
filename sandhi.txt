@@ -1,0 +1,4 @@
+! Cluster Simplification (Evans 1995, p. 76): deletes the penultimate
+! consonant in an otherwise banned three-consonant cluster.
+! Attested: wangalk-+nguni -> wangalnguni, wangalk-+warri -> wangalwarri
+define ClusterSimplification [ k -> 0 || l _ [n | w] ] ;

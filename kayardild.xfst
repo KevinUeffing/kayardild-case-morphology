@@ -1,0 +1,12 @@
+! kayardild.xfst
+! Loads the lexicon, composes it with the sandhi rule, then applies
+! every test input (read from kayardild_inputs.txt) and writes the
+! results to kayardild_output.txt.
+
+clear stack;
+read lexc < kayardild.txt
+define Lexicon
+source sandhi.txt
+regex Lexicon .o. ClusterSimplification;
+
+apply down < kayardild_inputs.txt > kayardild_output.txt

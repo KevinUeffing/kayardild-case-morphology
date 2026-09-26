@@ -1,0 +1,107 @@
+Multichar_Symbols +NOM +LOC +ABL +PROP +OBL +MOBL +ALL +GEN +ASSOC +ORIG +PRIV +CONS +INSTR +UTIL +LOT
+
+LEXICON Root
+	Nouns;
+
+LEXICON Nouns
+yakuri	Decl1 ;
+maku	Decl2 ;
+mala		Decl3a ;
+nal		Decl4a ;
+nat		Decl4a-UTIL-irregular ;
+wangalk	Decl4a ;
+
+! -- Nouns (Declension 1: vowel i-final) --
+LEXICON Decl1
++NOM:ya		# ;
++LOC:ya		# ;
++LOC:0		LOC-Modal ;
++ABL:na		# ;
++PROP:wuru	# ;
++OBL:nja	# ;
++ALL:r		# ;
++GEN:karra	# ;
++GEN:karran	Rank2-nfinal ;
++ASSOC:nurru	# ;
++ORIG:wan	Rank2-nfinal ;
++PRIV:warri	# ;
++CONS:ngarrba	# ;
++INSTR:nguni	# ;
++UTIL:marra	# ;
++LOT:walad	LOT-Cont ;
+
+! -- Nouns (Declension 2: vowel u-final) --
+LEXICON Decl2
++NOM:wa		# ;
++LOC:ya		# ;
++LOC:0		LOC-Modal ;
++ABL:na		# ;
++PROP:uru	# ;
++OBL:ntha	# ;
++ALL:r		# ;
++GEN:karra	# ;
++GEN:karran	Rank2-nfinal ;
++ASSOC:nurru	# ;
++ORIG:wan	Rank2-nfinal ;
++PRIV:warri	# ;
++CONS:ngarrba	# ;
++INSTR:nguni	# ;
++UTIL:marra	# ;
++LOT:walad	LOT-Cont ;
+
+! -- Nouns (Declension 3a: vowel a-final, disyllabic) --
+LEXICON Decl3a
++NOM:a		# ;
++LOC:ya		# ;
++LOC:0		LOC-Modal ;
++ABL:na		# ;
++PROP:wuru	# ;
++OBL:ntha	# ;
++ALL:r		# ;
++GEN:karra	# ;
++GEN:karran	Rank2-nfinal ;
++ASSOC:nurru	# ;
++ORIG:wan	Rank2-nfinal ;
++PRIV:warri	# ;
++CONS:ngarrba	# ;
++INSTR:nguni	# ;
++UTIL:marra	# ;
++LOT:walad	LOT-Cont ;
+
+! -- Nouns (Declension 4a: consonant-final, r/l/th/j) --
+LEXICON Decl4a
++NOM:da		# ;
++LOC:iya	# ;
++LOC:0		LOC-Modal ;
++ABL:ina	# ;
++PROP:uru	# ;
++OBL:inja	# ;
++ALL:ir		# ;
++GEN:karra	# ;
++GEN:karran	Rank2-nfinal ;
++ASSOC:nurru	# ;
++ORIG:wan	Rank2-nfinal ;
++PRIV:warri	# ;
++CONS:ngarrba	# ;
++INSTR:nguni	# ;
++LOT:walad	LOT-Cont ;
+
+LEXICON Decl4a-UTIL-irregular
++UTIL:marra	# ;
+
+LEXICON Rank2-nfinal
++NOM:da		# ;
++LOC:ji		# ;
+
+LEXICON LOC-Modal
++MOBL:kurrk	# ;
+
+! -- Number: LOT ("a lot"), non-nasal-final stems only --
+! Base form -walath-; delaminalizes th->d before Nominative -a.
+! Only LOT+NOM implemented (only attested closure).
+! Verified: Evans (1995, pp. 184-185), e.g. karndi-wala(d)-a 'wife-LOT(NOM)'.
+
+LEXICON LOT-Cont
++NOM:a		# ;
+
+END
